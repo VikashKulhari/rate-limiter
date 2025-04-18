@@ -21,4 +21,4 @@ This package helps you rate limit requests in Go REST APIs by user (JWT) and IP 
 ### 🔧 Install
 
 ```bash
-go get github.com/yourusername/ratelimiter
+go get github.com/VikashKulhari/ratelimiter
